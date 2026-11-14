@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="System Failure Prank logo" width="600">
+</p>
+
 System Failure Prank 👾
 
 A harmless but startling web-based prank that simulates a system meltdown and blue screen of death. Perfect for playing a quick joke on friends or colleagues.
